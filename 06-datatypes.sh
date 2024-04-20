@@ -1,6 +1,6 @@
 #!/bin/bash
 
-int1=$1
-int2=$2
-SUM=(($int1+$int2))
-echo "sum of $int1 and $int2 is $SUM"
+NO1=$1
+NO2=$2
+SUM=(($NO1+$NO2))
+echo "sum of $NO1 and $NO2 is $SUM"
