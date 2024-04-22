@@ -15,4 +15,3 @@ if [ $? -ne 0 ]
  echo "mysql installtion failed"
  else
  echo "mysql installation is success"
- 
